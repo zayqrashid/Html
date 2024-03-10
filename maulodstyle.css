@@ -1,0 +1,20 @@
+.cat-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  }
+  
+.cat {
+    margin: 0;
+    width: 20%;
+    text-align: center;
+
+}
+  
+  .cat img {
+    width: 300px;
+    border-radius: 200px
+  }
+  
+  
